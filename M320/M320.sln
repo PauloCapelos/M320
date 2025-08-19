@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{6EC00C9C-AC73-41F4-B1C1-43837DE36A85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{6EC00C9C-AC73-41F4-B1C1-43837DE36A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatheAufgaben", "MatheAufgaben\MatheAufgaben.csproj", "{92D16C90-B023-42C4-9A86-D5B5178A45E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#Lernpfad", "C#Lernpfad\C#Lernpfad.csproj", "{393B02E5-EAA8-452E-A9DB-0D318FA711AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6EC00C9C-AC73-41F4-B1C1-43837DE36A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EC00C9C-AC73-41F4-B1C1-43837DE36A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EC00C9C-AC73-41F4-B1C1-43837DE36A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D16C90-B023-42C4-9A86-D5B5178A45E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D16C90-B023-42C4-9A86-D5B5178A45E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D16C90-B023-42C4-9A86-D5B5178A45E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D16C90-B023-42C4-9A86-D5B5178A45E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393B02E5-EAA8-452E-A9DB-0D318FA711AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393B02E5-EAA8-452E-A9DB-0D318FA711AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393B02E5-EAA8-452E-A9DB-0D318FA711AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393B02E5-EAA8-452E-A9DB-0D318FA711AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

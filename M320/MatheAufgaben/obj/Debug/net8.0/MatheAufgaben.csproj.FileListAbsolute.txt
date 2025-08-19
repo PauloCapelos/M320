@@ -1,0 +1,15 @@
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\bin\Debug\net8.0\MatheAufgaben.exe
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\bin\Debug\net8.0\MatheAufgaben.deps.json
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\bin\Debug\net8.0\MatheAufgaben.runtimeconfig.json
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\bin\Debug\net8.0\MatheAufgaben.dll
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\bin\Debug\net8.0\MatheAufgaben.pdb
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\obj\Debug\net8.0\MatheAufgaben.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\obj\Debug\net8.0\MatheAufgaben.AssemblyInfoInputs.cache
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\obj\Debug\net8.0\MatheAufgaben.AssemblyInfo.cs
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\obj\Debug\net8.0\MatheAufgaben.csproj.CoreCompileInputs.cache
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\obj\Debug\net8.0\MatheAufgaben.sourcelink.json
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\obj\Debug\net8.0\MatheAufgaben.dll
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\obj\Debug\net8.0\refint\MatheAufgaben.dll
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\obj\Debug\net8.0\MatheAufgaben.pdb
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\obj\Debug\net8.0\MatheAufgaben.genruntimeconfig.cache
+C:\Users\viana\Source\M320[Repo]\M320\M320\MatheAufgaben\obj\Debug\net8.0\ref\MatheAufgaben.dll

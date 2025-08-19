@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\viana\\Source\\M320[Repo]\\M320\\M320\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\viana\\Source\\M320[Repo]\\M320\\M320\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\viana\\Source\\M320[Repo]\\M320\\M320\\C#Lernpfad\\C#Lernpfad.csproj",
+      "projectName": "C#Lernpfad",
+      "projectPath": "C:\\Users\\viana\\Source\\M320[Repo]\\M320\\M320\\C#Lernpfad\\C#Lernpfad.csproj",
       "packagesPath": "C:\\Users\\viana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\viana\\Source\\M320[Repo]\\M320\\M320\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\viana\\Source\\M320[Repo]\\M320\\M320\\C#Lernpfad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

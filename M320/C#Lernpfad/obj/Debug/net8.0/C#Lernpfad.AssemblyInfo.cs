@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HelloWorld")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("C#Lernpfad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5431d134d2417111bdbec19a5b73c53c26fe5d31")]
-[assembly: System.Reflection.AssemblyProductAttribute("HelloWorld")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HelloWorld")]
+[assembly: System.Reflection.AssemblyProductAttribute("C#Lernpfad")]
+[assembly: System.Reflection.AssemblyTitleAttribute("C#Lernpfad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

@@ -1,0 +1,15 @@
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\bin\Debug\net8.0\C#Lernpfad.exe
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\bin\Debug\net8.0\C#Lernpfad.deps.json
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\bin\Debug\net8.0\C#Lernpfad.runtimeconfig.json
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\bin\Debug\net8.0\C#Lernpfad.dll
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\bin\Debug\net8.0\C#Lernpfad.pdb
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\obj\Debug\net8.0\C#Lernpfad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\obj\Debug\net8.0\C#Lernpfad.AssemblyInfoInputs.cache
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\obj\Debug\net8.0\C#Lernpfad.AssemblyInfo.cs
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\obj\Debug\net8.0\C#Lernpfad.csproj.CoreCompileInputs.cache
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\obj\Debug\net8.0\C#Lernpfad.sourcelink.json
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\obj\Debug\net8.0\C#Lernpfad.dll
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\obj\Debug\net8.0\refint\C#Lernpfad.dll
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\obj\Debug\net8.0\C#Lernpfad.pdb
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\obj\Debug\net8.0\C#Lernpfad.genruntimeconfig.cache
+C:\Users\viana\Source\M320[Repo]\M320\M320\C#Lernpfad\obj\Debug\net8.0\ref\C#Lernpfad.dll
